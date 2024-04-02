@@ -1,0 +1,9 @@
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\bin\Debug\server.exe.config
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\bin\Debug\server.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\bin\Debug\server.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.server.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\server\server\obj\Debug\server.pdb

@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\bin\Debug\[code] Bài 05 - Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\bin\Debug\[code] Bài 05 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\bin\Debug\[code] Bài 05 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\obj\Debug\[code] Bài 05 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\obj\Debug\[code] Bài 05 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 05 - Kiểm Tra Phân Biệt Biên\Bài 05 - Phân Biệt Biên Thông Điệp\[code] Bài 05 - Client\obj\Debug\[code] Bài 05 - Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\obj\Debug\tinhPT_bac1_udp_server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\tinhPT_bac1_udp (server-client)\tinhPT_bac1_udp (server)\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb

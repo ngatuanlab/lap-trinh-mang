@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\bin\Debug\Bai 06 - Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\bin\Debug\Bai 06 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\bin\Debug\Bai 06 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\obj\Debug\Bai 06 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\obj\Debug\Bai 06 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bai 06 - Client\obj\Debug\Bai 06 - Client.csprojResolveAssemblyReference.cache

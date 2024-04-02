@@ -1,0 +1,12 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\bin\Debug\Bài 02 - Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\bin\Debug\Bài 02 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\bin\Debug\Bài 02 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\obj\Debug\Bài 02 - Client.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\obj\Debug\Bài 02 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 02 - Client\obj\Debug\Bài 02 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\bin\Debug\Bài 02 - Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\obj\Debug\Bài 02 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\obj\Debug\Bài 02 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\bin\Debug\Bài 02 - Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\bin\Debug\Bài 02 - Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 02 - Bài Tập Cải Tiến\[code] Bài 01 -CT UDP Đơn Giản\Bài 02 - Client\obj\Debug\Bài 02 - Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\bin\Debug\_4.networkstream__Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\bin\Debug\_4.networkstream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\bin\Debug\_4.networkstream__Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\obj\Debug\_4.networkstream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\obj\Debug\_4.networkstream__Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\bin\Debug\_4.networkstream__Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\obj\Debug\_4.networkstream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 4. Sử dụng C# Netstream\[4. networkstream] Client\[4. networkstream] Client\obj\Debug\_4.networkstream__Client.pdb

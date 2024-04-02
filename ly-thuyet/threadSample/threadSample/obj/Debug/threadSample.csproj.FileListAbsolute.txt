@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\threadSample\threadSample\bin\Debug\threadSample.exe.config
+C:\Users\anhtuan\Desktop\threadSample\threadSample\obj\Debug\threadSample.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\threadSample\threadSample\bin\Debug\threadSample.exe
+C:\Users\anhtuan\Desktop\threadSample\threadSample\bin\Debug\threadSample.pdb
+C:\Users\anhtuan\Desktop\threadSample\threadSample\obj\Debug\threadSample.exe
+C:\Users\anhtuan\Desktop\threadSample\threadSample\obj\Debug\threadSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\obj\Debug\_5.stream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\obj\Debug\_5.stream__Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\obj\Debug\_5.stream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\obj\Debug\_5.stream__Client.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\[lab-02] 5. Sử dụng StreamReader và StreamWriter\[5. stream] Client\[5. stream] Client\bin\Debug\_5.stream__Client.pdb

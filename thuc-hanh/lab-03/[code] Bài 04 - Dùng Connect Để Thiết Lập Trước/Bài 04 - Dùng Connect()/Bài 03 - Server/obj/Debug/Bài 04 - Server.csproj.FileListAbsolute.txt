@@ -1,0 +1,5 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 04 - Dùng Connect Để Thiết Lập Trước\Bài 03 - Dùng Connect()\Bài 03 - Server\bin\Debug\Bài 03 - Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 04 - Dùng Connect Để Thiết Lập Trước\Bài 03 - Dùng Connect()\Bài 03 - Server\bin\Debug\Bài 03 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 04 - Dùng Connect Để Thiết Lập Trước\Bài 03 - Dùng Connect()\Bài 03 - Server\bin\Debug\Bài 03 - Server.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 04 - Dùng Connect Để Thiết Lập Trước\Bài 03 - Dùng Connect()\Bài 03 - Server\obj\Debug\Bài 03 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 04 - Dùng Connect Để Thiết Lập Trước\Bài 03 - Dùng Connect()\Bài 03 - Server\obj\Debug\Bài 03 - Server.pdb

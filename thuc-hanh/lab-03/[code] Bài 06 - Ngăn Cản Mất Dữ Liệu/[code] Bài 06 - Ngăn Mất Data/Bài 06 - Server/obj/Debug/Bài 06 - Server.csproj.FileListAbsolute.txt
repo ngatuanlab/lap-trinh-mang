@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\bin\Debug\Bài 06 - Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\bin\Debug\Bài 06 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\bin\Debug\Bài 06 - Server.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\obj\Debug\Bài 06 - Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\obj\Debug\Bài 06 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 06 - Ngăn Cản Mất Dữ Liệu\[code] Bài 06 - Ngăn Mất Data\Bài 06 - Server\obj\Debug\Bài 06 - Server.pdb

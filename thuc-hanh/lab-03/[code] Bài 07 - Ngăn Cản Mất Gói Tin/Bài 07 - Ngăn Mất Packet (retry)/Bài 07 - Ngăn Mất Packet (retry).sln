@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài 07 - Server", "Bài 07 - Server\Bài 07 - Server.csproj", "{2C7EB365-EB42-47A5-A953-C3CBAF9BF17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài 07 - Client", "Bài 07 - Client\Bài 07 - Client.csproj", "{FBE87A49-CABE-4059-B63C-84DA25C6B0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7EB365-EB42-47A5-A953-C3CBAF9BF17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7EB365-EB42-47A5-A953-C3CBAF9BF17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7EB365-EB42-47A5-A953-C3CBAF9BF17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7EB365-EB42-47A5-A953-C3CBAF9BF17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE87A49-CABE-4059-B63C-84DA25C6B0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE87A49-CABE-4059-B63C-84DA25C6B0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE87A49-CABE-4059-B63C-84DA25C6B0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE87A49-CABE-4059-B63C-84DA25C6B0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

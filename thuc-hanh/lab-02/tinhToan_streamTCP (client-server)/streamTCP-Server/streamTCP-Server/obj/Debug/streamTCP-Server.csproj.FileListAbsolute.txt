@@ -1,0 +1,36 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lapTrinhMang-main\LyThuyet\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\lab_02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\bin\Debug\streamTCP-Server.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-02\tinhToan_streamTCP (client-server)\streamTCP-Server\streamTCP-Server\obj\Debug\streamTCP-Server.csprojResolveAssemblyReference.cache

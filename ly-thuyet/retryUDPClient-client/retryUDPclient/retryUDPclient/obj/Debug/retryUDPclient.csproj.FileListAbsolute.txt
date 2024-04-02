@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\bin\Debug\retryUDPclient.exe.config
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\bin\Debug\retryUDPclient.exe
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\bin\Debug\retryUDPclient.pdb
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\obj\Debug\retryUDPclient.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\obj\Debug\retryUDPclient.exe
+C:\Users\anhtuan\Desktop\retryUDPClient\retryUDPclient\retryUDPclient\obj\Debug\retryUDPclient.pdb

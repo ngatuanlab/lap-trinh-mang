@@ -1,0 +1,73 @@
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\bin\Debug\client.exe.config
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\bin\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\bin\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.client.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_04\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\bin\Debug\client.exe.config
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.exe
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.pdb
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\bin\Debug\client.exe
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\bin\Debug\client.pdb
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.client.resources
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Card game\udp_thread_card_game_05\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\bin\Debug\client.exe.config
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\bin\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\bin\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.client.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_06\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\bin\Debug\client.exe.config
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.exe
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.pdb
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\bin\Debug\client.exe
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\bin\Debug\client.pdb
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.client.resources
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Code Dự án\udp_thread_card_game_06_1\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe.config
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.exe
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.pdb
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\bin\Debug\client.pdb
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.client.resources
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.Properties.Resources.resources
+D:\ungdungquet\project bt\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe.config
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.exe
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.pdb
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\bin\Debug\client.pdb
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.client.resources
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.ResolveComReference.cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\udp_thread_card_game_Comp\client\client\bin\Debug\kiepdoden.mp3
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\Đề tài 07 - Trò chơi đánh bài\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe.config
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\Đề tài 07 - Trò chơi đánh bài\udp_thread_card_game_Comp\client\client\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\Đề tài 07 - Trò chơi đánh bài\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.ResolveComReference.cache
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\Đề tài 07 - Trò chơi đánh bài\udp_thread_card_game_Comp\client\client\obj\Debug\client.exe
+C:\Users\PC\DTDMnhombaocao18 Dropbox\Huy Hoang\PC\Desktop\lap trinh mang\Sang nho\Đề tài 07 - Trò chơi đánh bài\udp_thread_card_game_Comp\client\client\obj\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe.config
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\Interop.WMPLib.dll
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.ResolveComReference.cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.pdb
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.client.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\bin\Debug\client.exe
+C:\Users\anhtuan\Desktop\udp_thread_card_game_Comp\client\client\bin\Debug\client.pdb

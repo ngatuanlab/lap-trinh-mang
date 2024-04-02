@@ -1,0 +1,5 @@
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 01 - Server\bin\Debug\Bài 01 - Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 01 - Server\bin\Debug\Bài 01 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 01 - Server\bin\Debug\Bài 01 - Server.pdb
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 01 - Server\obj\Debug\Bài 01 - Server.exe
+C:\Users\anhtuan\Desktop\[LTM-TH] Báo Cáo Môn Học\LAB-03\[code] Bài 01 - CT UDP Đơn Giản\[code] Bài 01 -CT UDP Đơn Giảng\Bài 01 - Server\obj\Debug\Bài 01 - Server.pdb
