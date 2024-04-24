@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\bin\Debug\01_Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\bin\Debug\01_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\bin\Debug\01_Server.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\obj\Debug\01_Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\obj\Debug\01_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\01_Tạo_Server_Đơn_Giản\01_Server\obj\Debug\01_Server.pdb

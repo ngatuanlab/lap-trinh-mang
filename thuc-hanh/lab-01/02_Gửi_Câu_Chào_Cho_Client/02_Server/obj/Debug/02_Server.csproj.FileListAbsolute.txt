@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\bin\Debug\02_Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\bin\Debug\02_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\bin\Debug\02_Server.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\obj\Debug\02_Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\obj\Debug\02_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\02_Gửi_Câu_Chào_Cho_Client\02_Server\obj\Debug\02_Server.pdb

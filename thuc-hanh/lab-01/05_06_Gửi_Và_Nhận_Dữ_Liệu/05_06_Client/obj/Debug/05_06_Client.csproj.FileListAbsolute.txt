@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\bin\Debug\05_06_Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\bin\Debug\05_06_Client.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\bin\Debug\05_06_Client.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\obj\Debug\05_06_Client.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\obj\Debug\05_06_Client.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\05_06_Gửi_Và_Nhận_Dữ_Liệu\05_06_Client\obj\Debug\05_06_Client.csprojResolveAssemblyReference.cache

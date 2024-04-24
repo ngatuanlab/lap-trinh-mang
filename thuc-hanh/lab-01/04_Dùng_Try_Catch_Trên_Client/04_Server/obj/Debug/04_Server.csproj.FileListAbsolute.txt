@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\bin\Debug\04_Server.exe.config
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\bin\Debug\04_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\bin\Debug\04_Server.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\obj\Debug\04_Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\obj\Debug\04_Server.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\04_Dùng_Try_Catch_Trên_Client\04_Server\obj\Debug\04_Server.pdb

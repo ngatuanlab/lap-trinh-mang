@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\bin\Debug\03_Client.exe.config
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\bin\Debug\03_Client.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\bin\Debug\03_Client.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\obj\Debug\03_Client.exe
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\obj\Debug\03_Client.pdb
+C:\Users\anhtuan\Desktop\[LTM] Lab 01\03_Client_Đơn_Giản\03_Client\obj\Debug\03_Client.csprojResolveAssemblyReference.cache
